@@ -1,0 +1,22 @@
+#p1{
+    color: rgb(87, 87, 161);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 146%;
+}
+#p2{
+    color:pink;
+    font-family:cursive;
+    font-size: larger;  
+}
+.head{ 
+    color: red; 
+    font-size: 146%
+}
+.girls{
+    color: green;
+    font-size: 70%
+}
+.active{
+    color: black;
+    font-size: 140%
+}
